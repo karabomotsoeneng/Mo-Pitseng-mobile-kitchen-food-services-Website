@@ -3,7 +3,7 @@
 A fully responsive, dynamic website created for Mo'Pitseng Mobile Kitchen Food Services. This project was built as part of the final web development submission (WEDE5020POE). The website is designed to showcase traditional South African street food, allow users to view the menu dynamically, and make enquiries.
 
 ## Live Demo
-You can view the live deployed website here: **[PASTE YOUR GITHUB PAGES LINK HERE ONCE DEPLOYED]**
+You can view the live deployed website here: **[https://karabomotsoeneng.github.io/Mo-Pitseng-mobile-kitchen-food-services-Website/contacts.html]
 
 ## Technologies Used
 * **HTML5:** Semantic structure (header, nav, main, section, article, footer).
